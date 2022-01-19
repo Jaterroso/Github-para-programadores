@@ -1,3 +1,3 @@
 # Bienvenido al curso
 Prueba de repositorio
-[Visita mi blog](www.tierraarmada.com)
+[Visita mi blog](http://www.tierraarmada.com)
